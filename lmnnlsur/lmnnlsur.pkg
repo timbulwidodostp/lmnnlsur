@@ -1,4 +1,5 @@
-D 'xtqreg': Linear Quantile Mixed Models Use xtqreg With STATA 19
+D 'lmnnlsur': Overall System NL-SUR Non Normality Tests Use lmnnlsur With STATA 19
 D
-F xtqreg.ado
-F xtqreg.sthlp
+F lmnnlsur.ado
+F lmnnlsur.dlg
+F lmnnlsur.sthlp
