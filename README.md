@@ -1,6 +1,8 @@
 # lmnnlsur
 Overall System NL-SUR Non Normality Tests Use lmnnlsur With STATA 19
 
+https://www.youtube.com/watch?v=19MOxZziqQ4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
